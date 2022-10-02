@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netflix-the-real/static/css/main.e1526c2d.css",
+    "main.js": "/Netflix-the-real/static/js/main.e0acc170.js",
+    "static/js/787.51cb59d6.chunk.js": "/Netflix-the-real/static/js/787.51cb59d6.chunk.js",
+    "index.html": "/Netflix-the-real/index.html",
+    "main.e1526c2d.css.map": "/Netflix-the-real/static/css/main.e1526c2d.css.map",
+    "main.e0acc170.js.map": "/Netflix-the-real/static/js/main.e0acc170.js.map",
+    "787.51cb59d6.chunk.js.map": "/Netflix-the-real/static/js/787.51cb59d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1526c2d.css",
+    "static/js/main.e0acc170.js"
+  ]
+}
